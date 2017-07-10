@@ -1,0 +1,6 @@
+C:\Users\alexandru.erbasu\Documents\Week 3\Monday\Serialization (App 5)\Serialization\bin\Debug\Serialization.exe.config
+C:\Users\alexandru.erbasu\Documents\Week 3\Monday\Serialization (App 5)\Serialization\bin\Debug\Serialization.exe
+C:\Users\alexandru.erbasu\Documents\Week 3\Monday\Serialization (App 5)\Serialization\bin\Debug\Serialization.pdb
+C:\Users\alexandru.erbasu\Documents\Week 3\Monday\Serialization (App 5)\Serialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache
+C:\Users\alexandru.erbasu\Documents\Week 3\Monday\Serialization (App 5)\Serialization\obj\Debug\Serialization.exe
+C:\Users\alexandru.erbasu\Documents\Week 3\Monday\Serialization (App 5)\Serialization\obj\Debug\Serialization.pdb

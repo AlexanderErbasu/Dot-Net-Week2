@@ -1,0 +1,10 @@
+C:\Users\alexandru.erbasu\Documents\Week 3\Monday\TextSearching (App3 - V2)\TextSearching.Tests\bin\Debug\TextFile1.txt
+C:\Users\alexandru.erbasu\Documents\Week 3\Monday\TextSearching (App3 - V2)\TextSearching.Tests\bin\Debug\TextSearching.Tests.dll
+C:\Users\alexandru.erbasu\Documents\Week 3\Monday\TextSearching (App3 - V2)\TextSearching.Tests\bin\Debug\TextSearching.Tests.pdb
+C:\Users\alexandru.erbasu\Documents\Week 3\Monday\TextSearching (App3 - V2)\TextSearching.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\alexandru.erbasu\Documents\Week 3\Monday\TextSearching (App3 - V2)\TextSearching.Tests\bin\Debug\TextSearching.exe
+C:\Users\alexandru.erbasu\Documents\Week 3\Monday\TextSearching (App3 - V2)\TextSearching.Tests\bin\Debug\TextSearching.pdb
+C:\Users\alexandru.erbasu\Documents\Week 3\Monday\TextSearching (App3 - V2)\TextSearching.Tests\bin\Debug\TextSearching.exe.config
+C:\Users\alexandru.erbasu\Documents\Week 3\Monday\TextSearching (App3 - V2)\TextSearching.Tests\obj\Debug\TextSearching.Tests.csprojResolveAssemblyReference.cache
+C:\Users\alexandru.erbasu\Documents\Week 3\Monday\TextSearching (App3 - V2)\TextSearching.Tests\obj\Debug\TextSearching.Tests.dll
+C:\Users\alexandru.erbasu\Documents\Week 3\Monday\TextSearching (App3 - V2)\TextSearching.Tests\obj\Debug\TextSearching.Tests.pdb

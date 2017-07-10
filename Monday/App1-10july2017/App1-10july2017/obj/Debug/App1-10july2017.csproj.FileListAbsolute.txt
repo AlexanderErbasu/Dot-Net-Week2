@@ -1,0 +1,6 @@
+C:\Users\alexandru.erbasu\Documents\Week 3\Monday\App1-10july2017\App1-10july2017\bin\Debug\App1-10july2017.exe.config
+C:\Users\alexandru.erbasu\Documents\Week 3\Monday\App1-10july2017\App1-10july2017\bin\Debug\App1-10july2017.exe
+C:\Users\alexandru.erbasu\Documents\Week 3\Monday\App1-10july2017\App1-10july2017\bin\Debug\App1-10july2017.pdb
+C:\Users\alexandru.erbasu\Documents\Week 3\Monday\App1-10july2017\App1-10july2017\obj\Debug\App1-10july2017.csprojResolveAssemblyReference.cache
+C:\Users\alexandru.erbasu\Documents\Week 3\Monday\App1-10july2017\App1-10july2017\obj\Debug\App1-10july2017.exe
+C:\Users\alexandru.erbasu\Documents\Week 3\Monday\App1-10july2017\App1-10july2017\obj\Debug\App1-10july2017.pdb

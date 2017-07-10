@@ -1,0 +1,12 @@
+D:\Proiecte\Instruire\Proiecte\Serialization\Serialization\bin\Debug\Serialization.exe.config
+D:\Proiecte\Instruire\Proiecte\Serialization\Serialization\bin\Debug\Serialization.exe
+D:\Proiecte\Instruire\Proiecte\Serialization\Serialization\bin\Debug\Serialization.pdb
+D:\Proiecte\Instruire\Proiecte\Serialization\Serialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache
+D:\Proiecte\Instruire\Proiecte\Serialization\Serialization\obj\Debug\Serialization.exe
+D:\Proiecte\Instruire\Proiecte\Serialization\Serialization\obj\Debug\Serialization.pdb
+C:\Users\alexandru.erbasu\Documents\Week 3\Monday\Serializaton (App 5 V2 + design patterns)\Serialization\bin\Debug\Serialization.exe.config
+C:\Users\alexandru.erbasu\Documents\Week 3\Monday\Serializaton (App 5 V2 + design patterns)\Serialization\bin\Debug\Serialization.exe
+C:\Users\alexandru.erbasu\Documents\Week 3\Monday\Serializaton (App 5 V2 + design patterns)\Serialization\bin\Debug\Serialization.pdb
+C:\Users\alexandru.erbasu\Documents\Week 3\Monday\Serializaton (App 5 V2 + design patterns)\Serialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache
+C:\Users\alexandru.erbasu\Documents\Week 3\Monday\Serializaton (App 5 V2 + design patterns)\Serialization\obj\Debug\Serialization.exe
+C:\Users\alexandru.erbasu\Documents\Week 3\Monday\Serializaton (App 5 V2 + design patterns)\Serialization\obj\Debug\Serialization.pdb

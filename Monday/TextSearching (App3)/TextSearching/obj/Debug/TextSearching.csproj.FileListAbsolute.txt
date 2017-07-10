@@ -1,0 +1,6 @@
+C:\Users\alexandru.erbasu\Documents\Week 3\Monday\TextSearching (App3)\TextSearching\obj\Debug\TextSearching.csprojResolveAssemblyReference.cache
+C:\Users\alexandru.erbasu\Documents\Week 3\Monday\TextSearching (App3)\TextSearching\bin\Debug\TextSearching.exe.config
+C:\Users\alexandru.erbasu\Documents\Week 3\Monday\TextSearching (App3)\TextSearching\bin\Debug\TextSearching.exe
+C:\Users\alexandru.erbasu\Documents\Week 3\Monday\TextSearching (App3)\TextSearching\bin\Debug\TextSearching.pdb
+C:\Users\alexandru.erbasu\Documents\Week 3\Monday\TextSearching (App3)\TextSearching\obj\Debug\TextSearching.exe
+C:\Users\alexandru.erbasu\Documents\Week 3\Monday\TextSearching (App3)\TextSearching\obj\Debug\TextSearching.pdb
