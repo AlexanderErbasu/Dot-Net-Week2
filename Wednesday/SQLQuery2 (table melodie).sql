@@ -71,7 +71,7 @@ select * from Artist
 --values (9,'Melodie9',1,'00:04:33')
 
 
-select ar.Nume as NumeArtist, al.Nume as NumeAlbum, count(m.AlbumId) as NoOfSongs--, AVG(m.durata)
+select ar.Nume as NumeArtist, al.Nume as NumeAlbum, count(m.AlbumId) as NoOfSongs, AVG(m.durata)
 from Melodie as m
 inner join album as al on m.AlbumId = al.ID
 inner join artist as ar on al.ArtistId = ar.ID
