@@ -210,5 +210,11 @@ begin
 	delete from LinieComanda
 	where ComandaID = @ComandaID
 
-
+	delete from Comanda
+	where ComandaID = @ComandaID
 end
+
+exec P_StergeComanda 5
+
+select * from LinieComanda
+select * 
